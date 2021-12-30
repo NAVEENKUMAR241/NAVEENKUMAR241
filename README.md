@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NAVEENKUMAR241
-- 👀 I’m interested in Web development, Java programming, Machine Learning.
-- 🌱 I’m currently learning IBM applied AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @eagle_programming
+- 👋 Hi Everyone
+- # I'm Naveenkumar J
+- A passionate Software Engineering student from India
+- 👀 I’m interested in Web development, Java programming, AI and cloud computing.
+- 🌱 I’m currently learning AI & Web development 
+- 📫 I regularly post programming contents on [@eagle_programming](https://www.instagram.com/eagle_programming/) Instagram page
 
 <!---
 NAVEENKUMAR241/NAVEENKUMAR241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
