@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: NAVEENKUMAR241/blog-post-workflow@main
+        uses: NAVEENKUMAR241/blog-post-workflow@master
         with:
-          feed_list: "https://naveenj.hashnode.dev/feed"
+          feed_list: "https://naveenj.hashnode.dev/"
