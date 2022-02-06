@@ -17,6 +17,10 @@
 - # Tools and Technologies:
 ![Github](https://user-images.githubusercontent.com/70682152/152630758-738e269d-5d06-4928-81bb-937138dee71c.png)
 
+-<p align="center">![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAVEENKUMAR241&show_icons=true&theme=radical)</p>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
