@@ -11,7 +11,7 @@
 - 🚀 I’m interested in Web development, Java programming, AI development and cloud computing 
 - 🌱 I’m currently learning AI & Web development 
 - 📫 I regularly post programming contents on [@eagle_programming](https://www.instagram.com/eagle_programming/) Instagram page
-- ![](https://komarev.com/ghpvc/?username=NAVEENKUMAR241&color=green)
+-<p align="center">![](https://komarev.com/ghpvc/?username=NAVEENKUMAR241&color=green)</p>
 
 
 - # Tools and Technologies:
