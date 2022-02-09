@@ -20,11 +20,11 @@
 -<p align="center">![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumar-j&show_icons=true&theme=radical)</p>
 ## 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java lab Assignment task 3](https://naveenj.hashnode.dev/java-lab-assignment-task-3)
-- [Java lab Assignment 3](https://naveenj.hashnode.dev/java-lab-assignment-3)
-- [PHP and MySQL Cyclesheet](https://naveenj.hashnode.dev/php-and-mysql-cyclesheet)
-- [HTML and CSS cycle sheet](https://naveenj.hashnode.dev/html-and-css-cycle-sheet)
-- [Java Lab assignment 2](https://naveenj.hashnode.dev/java-lab-assignment-2)
+- [Java lab Assignment task 3](https://naveenkumarj.hashnode.dev/java-lab-assignment-task-3)
+- [Java lab Assignment 3](https://naveenkumarj.hashnode.dev/java-lab-assignment-3)
+- [PHP and MySQL Cyclesheet](https://naveenkumarj.hashnode.dev/php-and-mysql-cyclesheet)
+- [HTML and CSS cycle sheet](https://naveenkumarj.hashnode.dev/html-and-css-cycle-sheet)
+- [Java Lab assignment 2](https://naveenkumarj.hashnode.dev/java-lab-assignment-2)
 <!-- BLOG-POST-LIST:END -->
 
 
