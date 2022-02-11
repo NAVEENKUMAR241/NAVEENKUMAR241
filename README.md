@@ -26,9 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-j&show_icons=true&locale=en&layout=compact&theme=radical" alt="naveenkumar-j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-j&show_icons=true&theme=radical" alt="naveenkumar-j" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-j&show_icons=true&theme=radical" alt="naveenkumar-j" /></p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar-j" alt="naveenkumar-j" /></a></p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar-j" alt="naveenkumar-j" /></a>
 
 
 ## 📕Latest Blog posts
