@@ -20,11 +20,11 @@
 -<p align="center">![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumar-j&show_icons=true&theme=radical)</p>
 ## 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tricks and Hacks: How to make your GitHub profile readme.md looks stunning within 3 steps](https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps)
 - [Java lab Assignment task 3](https://naveenkumarj.hashnode.dev/java-lab-assignment-task-3)
 - [Java lab Assignment 3](https://naveenkumarj.hashnode.dev/java-lab-assignment-3)
 - [PHP and MySQL Cyclesheet](https://naveenkumarj.hashnode.dev/php-and-mysql-cyclesheet)
 - [HTML and CSS cycle sheet](https://naveenkumarj.hashnode.dev/html-and-css-cycle-sheet)
-- [Java Lab assignment 2](https://naveenkumarj.hashnode.dev/java-lab-assignment-2)
 <!-- BLOG-POST-LIST:END -->
 
 
