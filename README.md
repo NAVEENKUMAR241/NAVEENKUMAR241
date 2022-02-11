@@ -20,7 +20,8 @@
 
 
 # 🛠️Tools and Technologies:
-![Github](https://user-images.githubusercontent.com/70682152/152630758-738e269d-5d06-4928-81bb-937138dee71c.png)
+
+![Github](https://user-images.githubusercontent.com/70682152/153578819-6b5fc829-d2ee-4406-9b13-247862e8b51b.png)
 
 ## 🏆My Github stats and Trophies:
 
