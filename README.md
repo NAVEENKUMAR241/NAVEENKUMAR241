@@ -35,11 +35,11 @@
 
 ## 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Lab Assignment 4](https://naveenkumarj.hashnode.dev/java-lab-assignment-4)
 - [Artificial Intelligence Question Bank with Answers : part 3](https://naveenkumarj.hashnode.dev/artificial-intelligence-question-bank-with-answers-part-3)
 - [Artificial Intelligence Question Bank with Answers : part 2](https://naveenkumarj.hashnode.dev/artificial-intelligence-question-bank-with-answers-part-2)
 - [Artificial Intelligence Question Bank with Answers : part 1](https://naveenkumarj.hashnode.dev/artificial-intelligence-question-bank-with-answers-part-1)
 - [Tricks and Hacks: How to make your GitHub profile readme.md looks stunning within 3 steps](https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps)
-- [Java lab Assignment task 3](https://naveenkumarj.hashnode.dev/java-lab-assignment-task-3)
 <!-- BLOG-POST-LIST:END -->
 
 
