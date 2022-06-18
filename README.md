@@ -43,7 +43,7 @@
 <!-- BLOG-POST-LIST:END -->
  
 ## ☕️Support:
-<p><a href="https://www.buymeacoffee.com/naveenkumarj30861"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="naveenkumarj30861" /></a></p><br><br>
+<p><a href="https://ko-fi.com/naveenkumarj30861"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naveenkumarj30861" /></a></p><br><br>
 
 
 
