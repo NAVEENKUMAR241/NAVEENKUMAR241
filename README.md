@@ -25,12 +25,11 @@
 
 ## 🏆My Github stats and Trophies:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-j&show_icons=true&locale=en&layout=compact&theme=radical" alt="naveenkumar-j" /></p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=naveenkumar-j&theme=radical&show_icons=true&count_private=true)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-j&show_icons=true&theme=radical" alt="naveenkumar-j" /></p><br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-j&theme=radical)
 
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar-j" alt="naveenkumar-j" /></a>
+![Trophies](https://github-profile-trophy.vercel.app/?username=naveenkumar-j)
 
 
 ## 📕Latest Blog posts
