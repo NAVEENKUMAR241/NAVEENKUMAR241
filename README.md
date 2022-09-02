@@ -237,6 +237,10 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-j&theme=radical)
 
+<div align="left">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-j&theme=radical" alt="naveenkumar-j" /></p>
+</div>
+
 
 
 
