@@ -1,12 +1,14 @@
+<!-- Header start -->
 <h1 align="center"> 👋 Hello Everyone Welcome to my Github profile</a>
-
 <h1 align="center">I'm <a href="https://naveenkumarj.netlify.app/" >Naveenkumar J</a></h1>
 <p align="center">
 <a href="https://linkedin.com/in/naveenkumar-j-610147174/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/naveenkumar-j-610147174/" height="30" width="40" /></a>
 <a href="https://instagram.com/eagle_programming/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eagle_programming/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@naveenkumarj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="https://hashnode.com/@naveenkumarj" height="30" width="40" /></a>
 </p>
+ <!-- Header end -->
  
+ <!-- GitHub About me section end -->
  ## 👨‍💻About Me:
 - ✨ A passionate Software Engineering student from India
 - 🚀 I’m interested in Web development, Java programming, AI development and cloud computing 
@@ -15,10 +17,10 @@
 - 📫 I regularly post programming contents on [@eagle_programming](https://www.instagram.com/eagle_programming/) Instagram page
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-j&label=Profile%20views&color=green&style=flat" alt="naveenkumar-j" /> </p>
+<!-- GitHub About me section end -->
 
 
-
-
+<!-- GitHub Skills start -->
 ## 🎓Tools and Technologies:
 - **Programming Languages**
 	<center>
@@ -227,10 +229,11 @@
 			</tbody>
 		</table>
 	</center>
+<!-- GitHub Skills end -->
 
 
 
-
+<!-- GitHub Activity start -->
 ## 🏆My Github stats and Trophies:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=naveenkumar-j&theme=radical&show_icons=true&count_private=true)
@@ -241,11 +244,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-j&theme=radical" alt="naveenkumar-j" /></p>
 </div>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumar-j) 
+<!-- GitHub Activity end -->
 
 
 
-## 📕Latest Blog posts
+
+
 <!-- BLOG-POST-LIST:START -->
+## 📕Latest Blog posts
 - [🔥 How to host your python flask website free in Heroku 🔥](https://naveenkumarj.hashnode.dev/how-to-host-your-python-flask-website-free-in-heroku)
 - [Java Lab Assignment 4](https://naveenkumarj.hashnode.dev/java-lab-assignment-4)
 - [Artificial Intelligence Question Bank with Answers : part 3](https://naveenkumarj.hashnode.dev/artificial-intelligence-question-bank-with-answers-part-3)
