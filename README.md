@@ -9,19 +9,18 @@
 <a href="https://instagram.com/eagle_programming/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eagle_programming/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@naveenkumarj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="https://hashnode.com/@naveenkumarj" height="30" width="40" /></a>
 </p>
- <!-- Header end -->
- 
- <!-- GitHub About me section end -->
+<img align ="right" alt "Coding" width="280" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<!-- Header end -->
+
+ <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
 - ✨ A passionate Software Engineering student from India
 - 🚀 I’m interested in Web development, Java programming, AI development and cloud computing 
 - 🌱 I’m currently learning AI & Web development 
 - 👨‍💻 All of my projects are available at [https://naveenkumarj.netlify.app/](https://naveenkumarj.netlify.app/)
 - 📫 I regularly post programming contents on [@eagle_programming](https://www.instagram.com/eagle_programming/) Instagram page
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-j&label=Profile%20views&color=green&style=flat" alt="naveenkumar-j" /> </p>
 <!-- GitHub About me section end -->
-
 
 <!-- GitHub Skills start -->
 ## 🎓Tools and Technologies:
@@ -79,7 +78,6 @@
 			</tbody>
 		</table>
 	</center>
-	
 - **Databases**
 	<center>
 		<table>
@@ -97,7 +95,6 @@
 			</tbody>
 		</table>
 	</center>
-
 - **web Hosting Platforms**
 	<center>
 		<table>
@@ -124,8 +121,7 @@
 			</tbody>
 		</table>
 	</center>
- 
- - **AI/ML**
+- **AI/ML**
 	<center>
 		<table>
 			<tbody>
@@ -150,8 +146,7 @@
 			</tbody>
 		</table>
 	</center>
- 
-  - **Designing Softwares:**
+- **Designing Softwares:**
 	<center>
 		<table>
 			<tbody>
@@ -168,7 +163,6 @@
 			</tbody>
 		</table>
 	</center>
-
 - **Cloud Platforms**
 	<center>
 		<table>
@@ -191,9 +185,7 @@
 			</tbody>
 		</table>
 	</center>
- 
- 
- - **Others**
+- **Others**
 	<center>
 		<table>
 			<tbody>
@@ -234,8 +226,6 @@
 	</center>
 <!-- GitHub Skills end -->
 
-
-
 <!-- GitHub Activity start -->
 ## 🏆My Github stats and Trophies:
 
@@ -250,10 +240,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumar-j) 
 <!-- GitHub Activity end -->
 
-
-
-
-
 <!-- BLOG-POST-LIST:START -->
 ## 📕Latest Blog posts
 - [🔥 How to host your python flask website free in Heroku 🔥](https://naveenkumarj.hashnode.dev/how-to-host-your-python-flask-website-free-in-heroku)
@@ -266,9 +252,4 @@
 ## ☕️Support:
 <p><a href="https://ko-fi.com/naveenkumarj30861"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naveenkumarj30861" /></a></p><br><br>
 
-
-
-<!---
-naveenkumar-j/naveenkumar-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---github.com/naveenkumar-j--->
