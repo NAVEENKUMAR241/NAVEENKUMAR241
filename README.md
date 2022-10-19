@@ -1,5 +1,8 @@
+
+![gitbanner](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+
 <!-- Header start -->
-<h1 align="center"> 👋 Hello Everyone Welcome to my Github profile</a>
+<h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
 <h1 align="center">I'm <a href="https://naveenkumarj.netlify.app/" >Naveenkumar J</a></h1>
 <p align="center">
 <a href="https://linkedin.com/in/naveenkumar-j-610147174/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/naveenkumar-j-610147174/" height="30" width="40" /></a>
