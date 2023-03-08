@@ -237,7 +237,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-j&theme=radical" alt="naveenkumar-j" /></p>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkumar-j) 
+[![Naveenkumar J's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=naveenkumar-j&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- GitHub Activity end -->
 
 <!-- BLOG-POST-LIST:START -->
