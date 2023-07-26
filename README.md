@@ -14,7 +14,7 @@
 
  <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
-- ✨ A passionate Software Engineering student from India
+- ✨ A passionate Software Engineer from India
 - 🚀 I’m interested in Web development, Java programming, AI development and cloud computing 
 - 🌱 I’m currently learning AI & Web development 
 - 👨‍💻 All of my projects are available at [https://naveenkumarj.netlify.app/](https://naveenkumarj.netlify.app/)
