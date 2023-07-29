@@ -1,5 +1,6 @@
-
+<!-- Gitbanner start -->
 ![gitbanner](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+<!-- Gitbanner start -->
 
 <!-- Header start -->
 <h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
@@ -31,11 +32,11 @@
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg" alt="Python">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java">
 					</td>
 				</tr>
 			</tbody>
@@ -48,31 +49,31 @@
 				<tr>
 					<td align="center">
 						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
 					</td>
 					<td align="center">
 						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS">
 					</td>
 					<td align="center">
 						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript">
 					</td>
 					<td align="center">
 						<span><strong>Wordpress</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap">
 					</td>
 					<td align="center">
 						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
 					</td>
 					<td  align="center">
 						<span><strong>Wix</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix">
 					</td>
 				</tr>
 			</tbody>
@@ -85,11 +86,11 @@
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>MySql</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySql">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Hive</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive">
 					</td>
 				</tr>
 			</tbody>
@@ -102,20 +103,20 @@
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Heroku</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Netlify</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify">
 					</td>
      
      <td width="25%" align="center">
 						<span><strong>Github pages</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github pages">
 					</td>
 					     <td width="25%" align="center">
 						<span><strong>Vercel</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg">
+						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg" alt="Vercel">
 					</td>
 				</tr>
 			</tbody>
@@ -128,36 +129,36 @@
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Tensorflow</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>OpenCV</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV">
 					</td>
      <td width="25%" align="center">
 						<span><strong>PyTorch</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch">
 					</td>
       <td width="25%" align="center">
 						<span><strong>NumPy</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy">
 					</td>
 				</tr>
 			</tbody>
 		</table>
 	</center>
-- **Designing Softwares:**
+- **Designing Softwares**
 	<center>
 		<table>
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Figma</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Canva</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva">
 					</td>
 					</tr>
 			</tbody>
@@ -169,17 +170,42 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>IBM</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg">
+						<span><strong>IBM cloud</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM cloud">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>AWS</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+						<span><strong>AWS cloud</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS cloud">
 					</td>
      
      <td width="25%" align="center">
-						<span><strong>Azure</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+						<span><strong>Azure cloud</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure cloud">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+ - **Version control Systems**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Git</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+					</td>
+                                        <td width="25%" align="center">
+						<span><strong>GitHub</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub">
+					</td>
+                                        <td width="25%" align="center">
+						<span><strong>Bitbucket</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket">
+					</td>
+					    <td width="25%" align="center">
+						<span><strong>GitLap</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab">
 					</td>
 				</tr>
 			</tbody>
@@ -192,33 +218,39 @@
 				<tr>
 					<td width="25%" align="center">
 						<span><strong>Linux</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux">
 					</td>
-					<td width="25%" align="center">
-						<span><strong>git</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-					</td>
-     <td width="25%" align="center">
-						<span><strong>github</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-					</td>
-      <td width="25%" align="center">
-						<span><strong>Bitbucket</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
-					</td>
-
-     <td width="25%" align="center">
+                                       <td width="25%" align="center">
 						<span><strong>Arduino</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino">
 					</td>
-    
-     <td width="25%" align="center">
+                                        <td width="25%" align="center">
 						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Matlab</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab">
+					</td>
+                                       <td width="25%" align="center">
+						<span><strong>Postman</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+					</td>
+      					<td width="25%" align="center">
+						<span><strong>Jira</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira">
+					</td>
+  					<td width="25%" align="center">
+						<span><strong>Ansible</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>PowerBI</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Slack</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack">
 					</td>
 				</tr>
 			</tbody>
@@ -252,4 +284,4 @@
 ## ☕️Support:
 <p><a href="https://ko-fi.com/naveenkumarj30861"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naveenkumarj30861" /></a></p><br><br>
 
-<!---github.com/naveenkumar-j--->
+<!--- copyright @github.com/naveenkumar-j--->
