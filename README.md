@@ -138,6 +138,10 @@
    <table>
       <tbody>
          <tr>
+          <td width="25%" align="center">
+               <span><strong>ChatGPT</strong></span><br/>
+               <img src="https://en.m.wikipedia.org/wiki/File:ChatGPT_logo.svg" alt="ChatGPT">
+            </td>
             <td width="25%" align="center">
                <span><strong>Tensorflow</strong></span><br/>
                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow">
