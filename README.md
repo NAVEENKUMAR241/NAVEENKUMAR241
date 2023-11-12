@@ -140,7 +140,7 @@
          <tr>
           <td width="25%" align="center">
                <span><strong>ChatGPT</strong></span><br/>
-               <img src="https://en.m.wikipedia.org/wiki/File:ChatGPT_logo.svg" alt="ChatGPT">
+               <img height="64px" width="64px" src="https://seeklogo.com/images/C/chatgpt-logo-B3C0CF3025-seeklogo.com.png" alt="ChatGPT">
             </td>
             <td width="25%" align="center">
                <span><strong>Tensorflow</strong></span><br/>
