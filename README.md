@@ -1,6 +1,6 @@
-<div id="welcome"></div>
 <!-- Gitbanner start -->
 ![gitbanner](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+<div id="welcome"></div>
 <!-- Gitbanner start -->
 
 <!-- Header start -->
