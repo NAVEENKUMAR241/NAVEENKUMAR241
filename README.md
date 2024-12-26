@@ -82,7 +82,7 @@
             </td>
             <td width="25%" align="center">
                <span><strong>Babel</strong></span><br/>
-               <img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/babel.svg">
+               <img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Babel.svg">
             </td>
          </tr>
       </tbody>
@@ -275,6 +275,10 @@
    </table>
 </center>
 <!-- GitHub Skills end -->
+
+<div align="right">
+    <b><a href="#welcome">↥ back to top</a></b>
+</div>
 
 <!-- GitHub Activity start -->
 ## 🏆My Github stats and Trophies:
